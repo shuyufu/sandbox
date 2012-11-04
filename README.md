@@ -1,4 +1,4 @@
 sandbox
 =======
 
-test
+This is a experimental project for testing git.
